@@ -1,0 +1,2 @@
+# StudentsManagerHibernate
+Java + Hibernate project
